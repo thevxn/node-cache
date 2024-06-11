@@ -1,6 +1,6 @@
 {
   "name": "@savla-dev/node-cache",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "Simple caching for Node.js apps.",
   "main": "dist/main.js",
   "license": "MIT",
